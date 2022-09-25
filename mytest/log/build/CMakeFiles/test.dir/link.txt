@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/test.dir/test/test.cc.o  -o ../bin/test  -Wl,-rpath,/home/ubuntu1/projects/cpp/sylar/mytest/log/lib ../lib/libsylar.so 
